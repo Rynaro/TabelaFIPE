@@ -1,5 +1,5 @@
 To extract the data only needs to run
-	ruby TabelaFIPE.rb
+  ruby TabelaFIPE.rb
 
 A file with all the data will be created.
 
